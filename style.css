@@ -1,0 +1,139 @@
+
+    *{
+        margin: 0;
+        padding: 0;
+    }
+    .navbar  img{
+      
+        display: inline-flex;
+        width: 50px;
+        justify-content: center;
+        align-items: center;
+        height: 50px;
+        background-color: blanchedalmond;
+        margin-left: 100px;
+        margin-top: 5px;
+        z-index: 2px;
+    }
+    .navbar h1{
+        display:inline-flex;
+        margin-right: 40%;
+       
+    }
+
+    .navbar ul li {
+         display: inline-flex;
+        
+    
+    }
+.navbar li a{
+    text-decoration: none;
+    color: black;
+   margin-right: 30px;
+
+    }
+    .heading h2{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .mainbackground{
+        margin-top: 45px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-color: rgb(169, 169, 169);
+    }
+    .mainbackground img{
+        
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 1189px;
+        height: 604px;
+      }
+    h2{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+    }
+    h3{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+    }
+ .explain{
+    display: flex;
+   
+    justify-content: center;
+    align-items: center;
+
+ }
+
+.explain .box{
+    
+  
+    background-color:white;
+    color: black;
+    width: 250px;
+    height: 250px;
+margin-top: 50px;
+   
+ 
+}
+.box{
+    justify-content: center;
+    align-items: center;
+}
+.box p{
+   
+    margin: 30px 30px 0px 10px;
+}
+.grid{
+    display: grid;
+    grid-row-gap: 25px;
+    grid-column-gap: 0px;
+    grid-template-columns: auto auto auto ;
+    margin-top: 60px;
+
+  
+}
+.pic{
+  height: 250px;
+  width: 450px;
+    border: 2px solid black;
+    margin-left: 30px;
+
+
+}
+.pic img{
+    width: 450px;
+    height: 250px;
+}
+
+.footer .head{
+    display: inline-flex;
+    margin-left: 300px;
+    font-size: 24px;
+    margin-right: 600px;
+
+}
+.footer ul {
+    display: inline-flex;
+}
+.footer ul li {
+     display: inline-flex;
+
+}
+.footer li a{
+text-decoration: none;
+color: black;
+margin-right: 30px;
+
+}
+
+
+
+ 
